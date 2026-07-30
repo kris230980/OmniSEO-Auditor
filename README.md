@@ -15,7 +15,6 @@ The auditor breaks down SEO into 4 core dimensions:
 
 OmniSEO Auditor is highly effective as an "in-the-editor" or "codebase-level" audit tool, but it is **not a replacement for enterprise SEO crawlers** (like Ahrefs, Semrush, or Screaming Frog). 
 
-To avoid misleading users, please note the following limitations:
 - **No Mass Crawling**: This tool audits the files/pages you provide or the codebase it runs in. It cannot automatically crawl 100,000 live URLs to map complex redirect chains or find all 404s.
 - **No Real-Time Metrics**: It does not possess real-time search volume, keyword difficulty, or backlink profiles (Domain Authority).
 - **Static Code Analysis**: While it can detect Client-Side Rendering (CSR) anti-patterns in your source code, it cannot emulate the full headless Chrome rendering engine (WRS) used by Googlebot.
