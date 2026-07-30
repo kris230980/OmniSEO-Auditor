@@ -48,3 +48,12 @@ OmniSEO-Auditor/
     ├── 03-ai-and-llm-visibility.md
     └── 04-seo-strategy.md
 ```
+
+## Acknowledgments & Credits
+
+This skill is built upon the fantastic work and methodologies from several open-source SEO repositories. We extend our gratitude and full credit to the original authors for their pioneering strategies:
+
+- **[RankWise](https://github.com/MADEVAL/RankWise)** for the 49-factor scoring matrix, readability tracking, and content quality rules.
+- **[ai-seo-tools](https://github.com/RivalSee/ai-seo-tools)** for deep codebase inspection methodologies and CSR anti-pattern detection.
+- **[orangeo-ai-visibility-skill](https://github.com/PixelOrange7/orangeo-ai-visibility-skill)** for the cutting-edge Generative Engine Optimization (GEO) strategies and LLM visibility checks.
+- **[top-10-seo-prompt-to-rank](https://github.com/manthan-kushwaha/top-10-seo-prompt-to-rank)** by Manthan Kushwaha for the strategic audits, including TASM and Intent reverse engineering.
