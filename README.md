@@ -49,6 +49,10 @@ OmniSEO-Auditor/
     └── 04-seo-strategy.md
 ```
 
+## Contributing
+
+This repository is open for collaboration! Just like most open-source projects, community contributions are highly encouraged. If you have a new prompt strategy, an enhancement for the knowledge base, or a bug fix, please feel free to fork the repository and open a Pull Request.
+
 ## Acknowledgments & Credits
 
 This skill is built upon the fantastic work and methodologies from several open-source SEO repositories. We extend our gratitude and full credit to the original authors for their pioneering strategies:
